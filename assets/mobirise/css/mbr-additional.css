@@ -831,6 +831,111 @@ a {
     padding: 2rem;
   }
 }
+.cid-tHrUlLh7Wu .mbr-text {
+  color: #e43f3f;
+}
+.cid-tIYhEqq8iT {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tIYhEqq8iT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tIYhEqq8iT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tIYhEqq8iT .timeline-element {
+  position: relative;
+}
+.cid-tIYhEqq8iT .timelines-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-tIYhEqq8iT .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tIYhEqq8iT .mbr-section-title,
+.cid-tIYhEqq8iT .mbr-section-subtitle,
+.cid-tIYhEqq8iT .timeline-date {
+  text-align: center;
+}
+.cid-tIYhEqq8iT .iconBackground {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #6592e6;
+  margin-left: -9px;
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .cid-tIYhEqq8iT .iconBackground {
+    left: 15px;
+    top: 30px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tIYhEqq8iT .iconBackground {
+    top: 70px;
+    left: 50%;
+  }
+}
+.cid-tIYhEqq8iT .row:after {
+  content: "";
+  position: absolute;
+  background-color: #6592e6;
+  width: 2px;
+}
+@media (max-width: 767px) {
+  .cid-tIYhEqq8iT .row:after {
+    height: calc(100% + 30px);
+    top: 50px;
+    left: 15px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tIYhEqq8iT .row:after {
+    height: calc(100% - 20px);
+    top: 90px;
+    left: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tIYhEqq8iT .timeline-date-wrapper,
+  .cid-tIYhEqq8iT .timeline-text-wrapper,
+  .cid-tIYhEqq8iT .image-wrapper {
+    padding: 0rem;
+    padding-left: 2rem;
+  }
+  .cid-tIYhEqq8iT .mbr-timeline-date {
+    text-align: left !important;
+  }
+  .cid-tIYhEqq8iT .mbr-timeline-title {
+    text-align: left;
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-tIYhEqq8iT .timeline-date-wrapper,
+  .cid-tIYhEqq8iT .timeline-text-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tIYhEqq8iT .timeline-date-wrapper,
+  .cid-tIYhEqq8iT .timeline-text-wrapper,
+  .cid-tIYhEqq8iT .image-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-tHrUcmeAkG .mbr-fallback-image.disabled {
   display: none;
 }
